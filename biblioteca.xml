@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="https://sergiocg2003.github.io/XSL/biblioteca.xsl"?>
+<biblioteca> 
+    <libro COD="1"> 
+        <titulo>XML practico</titulo> 
+        <autor>Thierry Boulanger</autor> 
+        <anyo>2015</anyo> 
+        <editorial>Ediciones ENI</editorial> 
+    </libro> 
+    <libro COD="11"> 
+        <titulo>Learning XML</titulo> 
+        <autor>Erik T. Ray</autor> 
+        <anyo>2003</anyo> 
+        <editorial>O'Reilly</editorial>
+    </libro>
+</biblioteca> 
